@@ -3,12 +3,12 @@
  */
 
  /********************
-  * Tienes dos alumnos, Pablo y Maria.
+  * Tienes dos alumnos, Pablo y María.
   * Pablo tiene las siguientes notas en el curso de JavaScript: 14, 19, 16.
   * María tiene las siguientes notas en el curso de mismo curso: 12, 18, 10.
   * 
   * Calcular el promedio de cada alumno, además indicar quién tiene el promedio
-  * superior, e indicar si el alumno esta aprobado, para ello su promedio 
+  * superior, e indicar si el alumno está aprobado, para ello su promedio 
   * debe ser superior a 13.
   */
 
@@ -24,7 +24,7 @@ if(promedioPablo > promedioMaria){
 }else if(promedioMaria > promedioPablo) {
     console.log('María tiene un promedio superior al de Pablo.');
 } else{
-    console.log('Pablo y María tienen el mismo promedio.')
+    console.log('Pablo y María tienen el mismo promedio.');
 }
 
 //Indicamos si han aprobado o suspendido
@@ -37,5 +37,5 @@ if(promedioPablo > 13){
 if(promedioMaria > 13){
     console.log('María está aprobada.');
 }else{
-    console.log('María está suspensa.')
+    console.log('María está suspensa.');
 }
