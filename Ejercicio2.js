@@ -13,9 +13,9 @@
   */
 
 // Calculamos el promedio de cada alumno
-var promedioPablo = (14 + 19 + 16) / 2;
+var promedioPablo = (14 + 19 + 16) / 3;
 console.log('Nota media de Pablo en el curso: ' + promedioPablo);
-var promedioMaria = (12 + 18 + 10) / 2;
+var promedioMaria = (12 + 18 + 10) / 3;
 console.log('Nota media de María en el curso: ' + promedioMaria);
 
 //Indicamos quién tiene el promedio superior
